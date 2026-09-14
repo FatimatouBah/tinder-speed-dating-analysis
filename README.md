@@ -1,6 +1,6 @@
 # Projet Speed Dating — Tinder
 
-Analyse exploratoire de données (EDA) réalisée dans le cadre de la formation Jedha (Bloc de certification #2), pour le compte fictif de Tinder.
+Analyse exploratoire de données (EDA) réalisée dans le cadre de la formation Jedha.
 
 ## 🎯 Objectif
 
